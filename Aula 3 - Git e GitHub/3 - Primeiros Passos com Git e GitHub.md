@@ -118,6 +118,16 @@ Após, podemos conferir com o comanado git status novamente como estão nossos a
 
 <br>
 
+Se digitarmos o comando "<em>git log</em>" podemos estar visualizando o commit que acabamos de fazer, além de mostrar o autor, hash("identidade do commit"), data e endereço de e-mail:<br><br>
+
+> <code>git log</code>
+
+<br>
+
+O Git não reconhece pastas de diretórios vazios, para que ele reconheça é necessário que seja adicionado algum arquivo dentro dele.
+
+<br>
+
 ## O que é O "MD (MarkDown)"?
 
 Markdown é "<em>uma linguagem de marcação simples</em>", seria uma forma mais simples de estar escrevendo o "<em>HTML</em>", mas comparado ao Markdown, é um pouco mais complexa.
